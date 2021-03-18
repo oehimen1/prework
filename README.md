@@ -39,8 +39,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-[X] 
+[X] Here's a walkthrough of implemented user stories:
+ 
+
 ![sB7U8dL - Imgur](https://user-images.githubusercontent.com/65789610/111712244-9c278280-8823-11eb-8248-edcf679b2f4b.gif)
 
 
