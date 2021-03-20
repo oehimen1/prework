@@ -117,7 +117,7 @@ function guess(btn){
   else{
     //Your guess was incorrect, count the number of Mistakes
     numMistakes++;
-    console.log("You have made " + numMistakes + " out of 3 mistakes");
+    alert("You have made " + numMistakes + " out of 3 mistakes");
     playClueSequence();
   }
   //If you've made 3 mistakes Game is over: you lost
