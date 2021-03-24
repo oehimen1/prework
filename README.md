@@ -1,11 +1,10 @@
-
 # Pre-work - _Memory Game_
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: Obehi Candace Ehimen
 
-Time spent: 5 hours spent in total
+Time spent: 2.5 hours to complete requirements and 2.5 hours to complete optional features ~ 5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/available-vine-drop
 
@@ -40,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
+
 [X] Here's a walkthrough of implemented user stories:
  
 
@@ -47,6 +47,7 @@ The following **additional** features are implemented:
 
 
 ![NIL6x67h8r 1](https://user-images.githubusercontent.com/65789610/111855137-71a7f900-88f9-11eb-9223-35857a5ea22b.gif)
+
 
 
 
@@ -67,8 +68,12 @@ The following **additional** features are implemented:
    My biggest challenge I encountered when creating this submission, was finding a way to speed up the time after each turn to make
    the game a bit harder. I know I had to change "clueHoldTime" from a constant to a variable and find a way to update it in the playSequence
    function so that it decreased on each turn. I had to play around with updating the "clueHoldTime" variable a few times to get it
-   right. Sometimes ithe timing would go way too quick after each turn and sometimes it would go a bit slow, so I ultimatly decided to shave off 13 each
+   right. Sometimes the timing would go way too quick after each turn and sometimes it would go a bit slow, so I ultimatly decided to shave off 13 each
    turn.
+
+   One interesting thing I learned completing the submission was that JavaScript has a built in library called AudioContext. This library helped generate the
+   sounds for the buttons. At first it looked a bit intimidating, but clicking the link provided to read more about it led me to become more interested in it
+   and made me curious on how programming and coding has impacted the music industry.
 
 3) What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
 
@@ -76,13 +81,15 @@ The following **additional** features are implemented:
    What are some other things a web developer should know apart from HTML, CSS, and JavaScript?
    Would you recommend web development to someone who loves tech and creativity and visuals?
    What would you consider the biggest learning block in learning web development?
-   What’s the biggest difference between developing for mobile and  developing for desktop? or PC?
+   What’s the biggest difference between developing for mobile and developing for desktop? or PC?
+   What's the best part of being in web development?
+   What are some of the most essential skills every web developer should have?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
-   This project helped me learn a lot about HTML, CSS, and JavaScript as a whole. If I had a few more hours to work on this project, it would have
+   This project helped me to learn a lot about HTML, CSS, and JavaScript, that I even wrote down some notes on them. If I had a few more hours to work on this project, it would have
    been great to make this game a bit more personal to whoever is playing, such as letting the user enter his/her name in a form. And whether
-   or not the user won or not it print out "Congrats 'user name' you won!" or "Sorry 'user name' you lost." I would also had liked to the optional
+   or not the user won or not it print out "Congrats 'user name' you won!" or "Sorry 'user name' you lost." I would also had liked to complete the optional
    ticking clock feature and some more CSS designs to make the app look even more appealing.
 
 ## License
